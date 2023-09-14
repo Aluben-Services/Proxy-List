@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+}
+button {
+  background-color: black;
+  color: white;
+  border: 2px solid #76bb40;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+
+input[type="text"] {
+  height: 2px;
+  width: 480px;
+  padding: 10px;
+  border: 2px solid orange;
+  border-radius: 5px;
+}
+
+
+a {
+  color: #76bb40;
+  text-decoration: none;
+}
+select {
+  font-size: 35px;
+  height: 10vw;
+  width: 20vw;
+  background-color: black;
+  color: blanchedalmond;
+  border: 3px solid hotpink;
+  margin: 2vw;
+  padding: 10px 20px;
+}
