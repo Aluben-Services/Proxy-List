@@ -1,6 +1,5 @@
 # procky-list
-proxy list will a lot of proxy links
-procky list has proxys as you know 
+A proxy list with many proxies
 
 -------------------------------------
 ## discord
